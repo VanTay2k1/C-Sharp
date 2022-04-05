@@ -1,0 +1,7 @@
+D:\C#\Foreach,Enum,Truct\Foreach,Enum,Truct\bin\Debug\Foreach,Enum,Truct.exe.config
+D:\C#\Foreach,Enum,Truct\Foreach,Enum,Truct\bin\Debug\Foreach,Enum,Truct.exe
+D:\C#\Foreach,Enum,Truct\Foreach,Enum,Truct\bin\Debug\Foreach,Enum,Truct.pdb
+D:\C#\Foreach,Enum,Truct\Foreach,Enum,Truct\obj\Debug\Foreach,Enum,Truct.csproj.AssemblyReference.cache
+D:\C#\Foreach,Enum,Truct\Foreach,Enum,Truct\obj\Debug\Foreach,Enum,Truct.csproj.CoreCompileInputs.cache
+D:\C#\Foreach,Enum,Truct\Foreach,Enum,Truct\obj\Debug\Foreach,Enum,Truct.exe
+D:\C#\Foreach,Enum,Truct\Foreach,Enum,Truct\obj\Debug\Foreach,Enum,Truct.pdb
